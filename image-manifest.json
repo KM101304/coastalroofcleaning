@@ -1,0 +1,254 @@
+[
+  {
+    "source": "images/ai-hero-roof-cleaning-vancouver.png",
+    "asset": "assets/ai-hero-roof-cleaning-vancouver.jpg",
+    "size": [
+      1376,
+      768
+    ],
+    "bytes": 318906
+  },
+  {
+    "source": "images/ai-before-after-roof.png",
+    "asset": "assets/ai-before-after-roof.jpg",
+    "size": [
+      1408,
+      768
+    ],
+    "bytes": 307395
+  },
+  {
+    "source": "images/ai-team-safety-softwash.png",
+    "asset": "assets/ai-team-safety-softwash.jpg",
+    "size": [
+      1408,
+      768
+    ],
+    "bytes": 293962
+  },
+  {
+    "source": "images/ai-maintenance-plan-home.png",
+    "asset": "assets/ai-maintenance-plan-home.jpg",
+    "size": [
+      1408,
+      768
+    ],
+    "bytes": 293313
+  },
+  {
+    "source": "images/originals/van.jpg",
+    "asset": "assets/van.jpg",
+    "size": [
+      1100,
+      824
+    ],
+    "bytes": 162154
+  },
+  {
+    "source": "images/originals/social-1.jpeg",
+    "asset": "assets/social-1.jpg",
+    "size": [
+      1080,
+      1920
+    ],
+    "bytes": 380368
+  },
+  {
+    "source": "images/originals/social-2.jpeg",
+    "asset": "assets/social-2.jpg",
+    "size": [
+      720,
+      1280
+    ],
+    "bytes": 150633
+  },
+  {
+    "source": "images/originals/social-3.jpeg",
+    "asset": "assets/social-3.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 262470
+  },
+  {
+    "source": "images/originals/social-4.jpeg",
+    "asset": "assets/social-4.jpg",
+    "size": [
+      1100,
+      1375
+    ],
+    "bytes": 400464
+  },
+  {
+    "source": "images/originals/social-5.jpeg",
+    "asset": "assets/social-5.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 379957
+  },
+  {
+    "source": "images/originals/social-6.jpeg",
+    "asset": "assets/social-6.jpg",
+    "size": [
+      1100,
+      825
+    ],
+    "bytes": 443933
+  },
+  {
+    "source": "images/originals/social-7.jpeg",
+    "asset": "assets/social-7.jpg",
+    "size": [
+      720,
+      720
+    ],
+    "bytes": 205471
+  },
+  {
+    "source": "images/originals/social-8.jpeg",
+    "asset": "assets/social-8.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 484493
+  },
+  {
+    "source": "images/originals/coastal-banner.jpeg",
+    "asset": "assets/coastal-banner.jpg",
+    "size": [
+      1100,
+      825
+    ],
+    "bytes": 210203
+  },
+  {
+    "source": "images/originals/roof-moss.jpg",
+    "asset": "assets/roof-moss.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 537354
+  },
+  {
+    "source": "images/originals/concrete.jpg",
+    "asset": "assets/concrete.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 374699
+  },
+  {
+    "source": "images/originals/barrel.jpg",
+    "asset": "assets/barrel.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 539531
+  },
+  {
+    "source": "images/originals/theatre3.jpg",
+    "asset": "assets/theatre3.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 431372
+  },
+  {
+    "source": "images/originals/gravel.jpg",
+    "asset": "assets/gravel.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 512371
+  },
+  {
+    "source": "images/originals/cedar-roof.jpg",
+    "asset": "assets/cedar-roof.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 375704
+  },
+  {
+    "source": "images/originals/asphalt-again.jpg",
+    "asset": "assets/asphalt-again.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 396197
+  },
+  {
+    "source": "images/originals/pressure-wash.jpg",
+    "asset": "assets/pressure-wash.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 433628
+  },
+  {
+    "source": "images/originals/ecology-office.jpg",
+    "asset": "assets/ecology-office.jpg",
+    "size": [
+      1024,
+      1024
+    ],
+    "bytes": 361127
+  },
+  {
+    "source": "images/originals/deck-side-by-side.jpg",
+    "asset": "assets/deck-side-by-side.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 256988
+  },
+  {
+    "source": "images/originals/siding-before-after.jpg",
+    "asset": "assets/siding-before-after.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 201388
+  },
+  {
+    "source": "images/originals/window.jpg",
+    "asset": "assets/window.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 256582
+  },
+  {
+    "source": "images/originals/gutter-before-after.jpg",
+    "asset": "assets/gutter-before-after.jpg",
+    "size": [
+      1100,
+      1100
+    ],
+    "bytes": 453568
+  },
+  {
+    "source": "images/originals/half-treat.jpg",
+    "asset": "assets/half-treat.jpg",
+    "size": [
+      1100,
+      825
+    ],
+    "bytes": 381492
+  }
+]
